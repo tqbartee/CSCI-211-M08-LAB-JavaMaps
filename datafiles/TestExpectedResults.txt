@@ -1,0 +1,54 @@
+Answer1
+Line 10: Candle in the Wind '97
+Line 221: Crocodile Rock
+Line 479: Something About the Way You look Tonight
+Line 520: Goodbye Yellow Brick Road
+Line 552: Can You Feel the Love Tonight
+Line 602: Nikita
+Line 958: Philadelphia Freedom
+Line 1091: Daniel
+Line 1353: Your Song
+Line 1377: Bennie & the Jets
+Line 1462: The One
+Line 1719: Rocket Man
+Line 1760: Believe
+Line 1841: Little Jeannie
+Line 1857: Sacrifice
+Line 1878: Island Girl
+Line 1911: Lucy in the Sky With Diamonds
+Line 2068: Don't Let the Sun Go Down On Me
+Line 2356: I Don't Wanna Go On With You Like That
+Line 2486: I'm Still Standing
+Line 2691: Circle of Life
+Line 3081: Someone Saved My Life Tonight
+Line 3401: You Gotta Love Someone
+Line 3696: I Guess That's Why They Call it the Blues
+Line 3705: The Bitch is Back
+Line 3866: Sorry Seems to Be the Hardest Word
+Line 3971: Blue Eyes
+Line 4615: Sad Songs (Say So Much)
+Line 4843: Empty Garden (Hey Hey Johnny)
+END VALUE
+Answer2
+Line 271: Always
+Line 281: Blaze of Glory
+Line 396: Livin' On a Prayer
+Line 599: It's My Life
+Line 1604: This Ain't a Love Song
+Line 1691: Bed of Roses
+Line 2387: Bad Medicine
+Line 2478: Have a Nice Day
+Line 2690: I'll Be There For You
+Line 2950: Keep the Faith
+Line 3424: Born to Be My Baby
+Line 3464: You Give Love a Bad Name
+Line 3627: Everyday
+Line 4640: Midnight in Chelsea
+Line 4716: In These Arms
+Line 4821: (You Want To) make A Memory
+END VALUE
+Answer3
+The entered key Bon Jovy was not in the map.
+Lower key is: Bon Jovi
+Higher key is: Bone Thugs-n-Harmony
+END VALUE
